@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-08-16">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="birth_year" type="string" />
+      <attribute id="1" title="death_year" type="string" />
+      <attribute id="2" title="first_year" type="string" />
+      <attribute id="3" title="last_year" type="string" />
+      <attribute id="4" title="religion_id" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Thomas (1) Hodgkin" label="Thomas (1) Hodgkin">
+        <attvalues>
+          <attvalue for="0" value="1798" />
+          <attvalue for="1" value="1866" />
+          <attvalue for="2" value="1839" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="William Allen" label="William Allen">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1842" />
+          <attvalue for="4" value="NA" />
+        </attvalues>
+      </node>
+      <node id="James Bowden" label="James Bowden">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1842" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="William Nash" label="William Nash">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1842" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joseph Sturge" label="Joseph Sturge">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1842" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="William Jun Grimshaw" label="William Jun Grimshaw">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1840" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Henry Knight" label="Henry Knight">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1840" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Edward Paull" label="Edward Paull">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1840" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Jun Alsop" label="Robert Jun Alsop">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Abram Rawlinson Barclay" label="Abram Rawlinson Barclay">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Barclay" label="John Barclay">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Richard Barrett" label="Richard Barrett">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Thomas Barry" label="John Thomas Barry">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Peter Bedford" label="Peter Bedford">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Bell" label="John Bell">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thomas Christy" label="Thomas Christy">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Samuel Darton" label="Samuel Darton">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Josiah Forster" label="Josiah Forster">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Forster" label="Robert Forster">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="William Forster" label="William Forster">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joseph Talwin Foster" label="Joseph Talwin Foster">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Hamilton" label="John Hamilton">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Edwd Harris" label="Edwd Harris">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Geo Holmes" label="Geo Holmes">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Robert Howard" label="Robert Howard">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Kitching" label="John Kitching">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joseph Neatby" label="Joseph Neatby">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Sanderson" label="John Sanderson">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="Joseph Shewell" label="Joseph Shewell">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1839" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="George Stacey" label="George Stacey">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id=" Joseph Storrs" label=" Joseph Storrs">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="NA" />
+          <attvalue for="2" value="1837" />
+          <attvalue for="3" value="1847" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="QCA" label="QCA" />
+    </nodes>
+    <edges>
+      <edge source="Thomas (1) Hodgkin" target="QCA" id="0" />
+      <edge source="William Allen" target="QCA" id="1" />
+      <edge source="James Bowden" target="QCA" id="2" />
+      <edge source="William Nash" target="QCA" id="3" />
+      <edge source="Joseph Sturge" target="QCA" id="4" />
+      <edge source="William Jun Grimshaw" target="QCA" id="5" />
+      <edge source="Henry Knight" target="QCA" id="6" />
+      <edge source="Edward Paull" target="QCA" id="7" />
+      <edge source="Robert Jun Alsop" target="QCA" id="8" />
+      <edge source="Abram Rawlinson Barclay" target="QCA" id="9" />
+      <edge source="John Barclay" target="QCA" id="10" />
+      <edge source="Richard Barrett" target="QCA" id="11" />
+      <edge source="John Thomas Barry" target="QCA" id="12" />
+      <edge source="Peter Bedford" target="QCA" id="13" />
+      <edge source="John Bell" target="QCA" id="14" />
+      <edge source="Thomas Christy" target="QCA" id="15" />
+      <edge source="Samuel Darton" target="QCA" id="16" />
+      <edge source="Josiah Forster" target="QCA" id="17" />
+      <edge source="Robert Forster" target="QCA" id="18" />
+      <edge source="William Forster" target="QCA" id="19" />
+      <edge source="Joseph Talwin Foster" target="QCA" id="20" />
+      <edge source="John Hamilton" target="QCA" id="21" />
+      <edge source="Edwd Harris" target="QCA" id="22" />
+      <edge source="Geo Holmes" target="QCA" id="23" />
+      <edge source="Robert Howard" target="QCA" id="24" />
+      <edge source="John Kitching" target="QCA" id="25" />
+      <edge source="Joseph Neatby" target="QCA" id="26" />
+      <edge source="John Sanderson" target="QCA" id="27" />
+      <edge source="Joseph Shewell" target="QCA" id="28" />
+      <edge source="George Stacey" target="QCA" id="29" />
+      <edge source=" Joseph Storrs" target="QCA" id="30" />
+    </edges>
+  </graph>
+</gexf>
